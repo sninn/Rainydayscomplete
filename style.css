@@ -11,10 +11,10 @@
     position: relative;
   }
   nav img{
-    max-height: 15px;
-    max width: 15px;
-    width: 15px;
-    height: 15px;
+    max-height: 2px;
+    max width: 2px;
+    width: 2px;
+    height: 2px;
   }
   .nav-links{
     flex: 1;
