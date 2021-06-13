@@ -10,3 +10,10 @@
     background-size: cover;
     position: relative;
   }
+  nav img{
+    width: 150px;
+  }
+  .nav-links{
+    flex: 1;
+    text-align: right
+  }
