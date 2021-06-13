@@ -1,1 +1,12 @@
-
+*{
+    margin: 0;
+    padding: 0;
+  }
+  .header{
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(4,9,30,0.7)),url(img/alex-iby-dGDmRqzPID0-unsplash.jpg);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+  }
